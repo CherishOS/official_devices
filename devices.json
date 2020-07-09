@@ -1,0 +1,62 @@
+[
+   {
+      "name": "Redmi 5A",
+      "brand": "Xiaomi",
+      "codename": "riva",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "deprecated": true
+         },
+         {
+            "version_code": "ten_plus",
+            "deprecated": true
+         }
+      ]
+   },
+   {
+      "name": "Redmi Note 4 & 4x",
+      "brand": "Xiaomi",
+      "codename": "mido",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "deprecated": true
+         },
+         {
+            "version_code": "ten_plus",
+            "deprecated": true
+         }
+      ]
+   },
+   {
+      "name": "Redmi Note 5 Pro",
+      "brand": "Xiaomi",
+      "codename": "whyred",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "deprecated": true
+         },
+         {
+            "version_code": "ten_plus",
+            "deprecated": true
+         }
+      ]
+   },
+   {
+      "name": "VEGA IRON 2",
+      "brand": "Pantech",
+      "codename": "ef63",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   }
+]
